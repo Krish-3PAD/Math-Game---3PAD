@@ -1,2 +1,2 @@
-# Math-Game-Back-Up
-Back up files for math game
+# Math-Game
+Files stored for Math Game - Version Control
